@@ -15,7 +15,7 @@ Notes from __Udemy course__: [The Story Course - Udemy](https://clevertap.udemy.
 ### Contents
 
 - [Elements of Story](https://github.com/alpha74/TSC/blob/main/docs/Elements_of_Story.md)
-- [The Quest](https://github.com/alpha74/TSC/blob/main/docs/The_Quest.md)
-- [The Setting](https://github.com/alpha74/TSC/blob/main/docs/The_Setting.md)
+- [The Quest of the Hero](https://github.com/alpha74/TSC/blob/main/docs/The_Quest.md)
+- [The Setting of the World](https://github.com/alpha74/TSC/blob/main/docs/The_Setting.md)
 - [Characters and Progression in Story](https://github.com/alpha74/TSC/blob/main/docs/Characters_and_Progression.md)
 - [Storywriting Workflows and Tools](https://github.com/alpha74/TSC/blob/main/docs/Workflows_and_Tools.md)
