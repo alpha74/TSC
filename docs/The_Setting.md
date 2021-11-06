@@ -7,6 +7,8 @@
 
 - Do not insist of revealing ‘Hand of Artist’ (showing more emphasis on beauty of world).
 
+<img src="https://cdn.mos.cms.futurecdn.net/znJTFDTemj3st5vMC9KxnB.jpg" height=50% width=50% alt="Avatar_World">
+
 - World building can lead to mono dimensional characters. 
 - Avoid this. There is always diversity in life and people.
 
@@ -47,11 +49,15 @@
 
 
 ### How to use Mazlow Hierarchy of Needs:
+
+<img src="https://cpawebsiteimages.blob.core.windows.net/publicimages/Marketing%20Theories/Maslows%20Hierarchy%20of%20Needs2.png" height=50% width=50% alt="mazlow_pyramid">
+
 - Psychological and Basic needs are need for achieving Self actualisation.
 - You can use this pyramid to create tension in story by removing one of the 4 basic needs.
 - Characters can be stationed in any floor in pyramid and then its behaviour can be described.
 - See personal development graph here. It can used to decide which details of characters to descrive first.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Dynamic_hierarchy_of_needs_-_Maslow.svg" height=50% width=50% alt="mazlow_graph">
 
 ### Voice and Perspective:
 - Outer Voice attributes:
