@@ -8,10 +8,11 @@
 
 #### Meditation
 
-- Tripp VR
+- [Tripp VR](https://www.tripp.com/)
 
 
 #### Images
+
 - Pocket
 - Feedly
 - Behance
@@ -35,7 +36,7 @@
 
 #### Whiteboards
 
-- Miro, 
+- Miro
 - Physical whiteboards
 
 
