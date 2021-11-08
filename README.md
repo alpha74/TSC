@@ -19,3 +19,6 @@ Notes from __Udemy course__: [The Story Course - Udemy](https://clevertap.udemy.
 - [The Setting of the World](https://github.com/alpha74/TSC/blob/main/docs/The_Setting.md)
 - [Characters and Progression in Story](https://github.com/alpha74/TSC/blob/main/docs/Characters_and_Progression.md)
 - [Storywriting Workflows and Tools](https://github.com/alpha74/TSC/blob/main/docs/Workflows_and_Tools.md)
+
+
+![image](https://user-images.githubusercontent.com/31771552/140686767-1c997c04-eb3f-4460-b6b7-0beb97d64305.png)
