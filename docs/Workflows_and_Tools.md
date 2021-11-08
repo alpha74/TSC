@@ -5,6 +5,8 @@
 
 - There are a variety of tools available which help in each stage of story writing process.
 
+<img src="https://user-images.githubusercontent.com/31771552/140686677-38be3cdc-3a34-41ca-84a7-3ba0b5cc1eab.png" width=60% height=60% alt="image">
+
 
 #### Meditation
 
