@@ -10,10 +10,10 @@
 - Heroes have passions, obsessions which connects to the conflicts inside them.
 - They are full of fear which they must confront at some point in the story.
 
-- Heroes have magnets, due to their personality. People will be attracted to the.
+- Heroes have magnets, due to their personality. People will be attracted to them.
 - Some people will be repelled by heroes, aka, the obstructions.
 
-<img src="https://www.dkoding.in/wp-content/uploads/Keanu-Reeves-is-The-Dog-Whisperer-John-Wick-4-Leaks-Hollywood-DKODING-1.jpg" width=50% height=50% alt="john_wick_dog">
+<img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2020/02/Dog-John-Wick.jpg" width=50% height=50% alt="john_wick_dog">
 
 - Heroes have emotional wounds, and it is about how hero processes and overcomes them in the story.
 - Heroes are ride takers: Use Internal or external conflicts.
