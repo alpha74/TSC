@@ -1,11 +1,11 @@
 ## Characters and Progression in Story
 
+<img src="https://www.grimdarkmagazine.com/wp-content/uploads/2020/01/Lords-of-Asylum-ecover.jpg" height="200px">
 
 ### Getting dialogue and action to work together
+
 - Both serve to move your story forward.
-
 - Avoid characters explaining for ought to be happening.
-
 - Keep dialogue real. Wooden dialogue kills the story.
 
 - Think: Do people really speak like that? People don’t  speak in carefully crafted sentences.
