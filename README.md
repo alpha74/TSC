@@ -2,7 +2,8 @@
 
 ## The Story Telling MasterClass
 
-![CourseImage](https://blog.udemy.com/wp-content/uploads/2013/06/shutterstock_105363872-300x268.jpg)
+<img src="https://findlogovector.com/wp-content/uploads/2022/04/udemy-logo-vector-2022.png" height="50px">
+
 
 Notes from __Udemy course__: [The Story Course - Udemy](https://clevertap.udemy.com/course/the-story-course/learn/lecture/9721154#overview)
 
