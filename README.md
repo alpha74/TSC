@@ -5,7 +5,7 @@
 <img src="https://findlogovector.com/wp-content/uploads/2022/04/udemy-logo-vector-2022.png" height="50px">
 
 
-Notes from __Udemy course__: [The Story Course - Udemy](https://clevertap.udemy.com/course/the-story-course/learn/lecture/9721154#overview)
+Notes from __Udemy course__: [The Story Course - Udemy](https://www.udemy.com/course/the-story-course/)
 
 -------
 
